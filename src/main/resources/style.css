@@ -1,0 +1,72 @@
+
+/* fac bara mai subtire si cu fundal de culoarea aplicatiei mele */
+.scroll-bar:vertical {
+    -fx-background-color: #0D1117;
+    -fx-pref-width: 10px;
+}
+
+
+/* ascund linia de sub cursor ca sa arate mai profi*/
+.scroll-bar:vertical .track {
+    -fx-background-color: #0D1117;
+    -fx-border-color: transparent;
+}
+
+
+/* bucata pe care o trag efectiv cu mouse-ul,o fac gri elegant*/
+.scroll-bar:vertical .thumb {
+    -fx-background-color: #2D313D;
+    -fx-background-radius: 5px;
+}
+
+/* cand tin click pe ea se face putin mai deschisa */
+.scroll-bar:vertical .thumb:pressed {
+    -fx-background-color: #3D4252;
+}
+
+/* ascund sagetile alea urate de sus si de jos*/
+.scroll-bar:vertical .increment-button,
+.scroll-bar:vertical .decrement-button {
+    -fx-padding: 0;
+}
+.scroll-bar:vertical .increment-arrow,
+.scroll-bar:vertical .decrement-arrow {
+    -fx-padding: 0;
+}
+
+
+/* fundalul si grila ascunsa raman la fel pentru toate graficele */
+.chart-vertical-grid-lines, .chart-horizontal-grid-lines {
+    -fx-stroke: #2A2E38;
+    -fx-stroke-width: 1px;
+    -fx-stroke-dash-array: 2 4;
+}
+.chart-plot-background { -fx-background-color: transparent; }
+.axis { -fx-border-color: transparent; }
+.axis-tick-mark { -fx-stroke: transparent; }
+
+/* grosimea de baza pentru toate liniile */
+.chart-series-line {
+    -fx-stroke-width: 2px;
+}
+
+/* culori individuale mapate pe ID-urile graficelor noastre */
+#chart-speed .chart-series-line { -fx-stroke: #FF3333; } /* rosu neon */
+#chart-throttle .chart-series-line { -fx-stroke: #00FF00; } /* verde */
+#chart-brake .chart-series-line { -fx-stroke: #E10600; } /* rosu sangeriu pt frana */
+
+#speedChart .chart-series-line {
+    -fx-stroke: #E2E4E9; /* Alb-Griu specific F1 */
+    -fx-stroke-width: 2px;
+}
+
+#throttleChart .chart-series-line {
+    -fx-stroke: #00FF00; /* Verde pentru acceleratie */
+    -fx-stroke-width: 2px;
+}
+
+#brakeChart .chart-series-line {
+    -fx-stroke: #FF0000; /* Rosu pentru franare */
+    -fx-stroke-width: 2px;
+}
+
