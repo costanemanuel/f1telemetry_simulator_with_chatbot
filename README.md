@@ -29,9 +29,9 @@ This project was built as an advanced application to simulate high-frequency rac
 ## 📸 Screenshots
 
 <img width="959" height="539" alt="f1poza1" src="https://github.com/user-attachments/assets/2b0b3793-26b6-4309-a5a5-b27a649c1b9e" />
+<img width="959" height="539" alt="sectors" src="https://github.com/user-attachments/assets/93285325-a33d-4e35-9d10-9b21e79c12e0" />
 <img width="955" height="538" alt="tyres" src="https://github.com/user-attachments/assets/5b15b00c-5fbb-4001-8f58-9f8f109d91aa" />
 <img width="959" height="539" alt="timings" src="https://github.com/user-attachments/assets/50c8d477-bd66-4feb-a876-0680b4b95c0e" />
-<img width="959" height="539" alt="sectors" src="https://github.com/user-attachments/assets/93285325-a33d-4e35-9d10-9b21e79c12e0" />
 <img width="959" height="536" alt="chatbot" src="https://github.com/user-attachments/assets/b9e1cfc9-2057-4276-9587-186782190cff" />
 <img width="957" height="539" alt="austin" src="https://github.com/user-attachments/assets/36ac2276-8b81-48ac-9a30-747f78feb328" />
 
