@@ -13,7 +13,7 @@ This project was built as an advanced application to simulate high-frequency rac
 * **Interactive Chatbot Integration:** A built-in chat assistant capable of answering queries regarding race data, vehicle status, and historical logs.
 * **Database Management:** Uses local data persistence (`SQLite` / JDBC) to log telemetry frames, session states, and driver stats securely.
 * **Modular Architecture:** Built following clean object-oriented design principles in Java, structured for scalability and easy maintenance.
-* **Maven Support:** Fully configured with `pom.xml` pentru o gestionare curată a dependențelor.
+* **Maven Support:** Fully configured with `pom.xml` for clean and seamless dependency management.
 
 ---
 
@@ -51,3 +51,7 @@ Make sure you have the following installed on your machine:
 ## 👤 Author
 
 Developed by **Emanuel Costan** — Student at the Technical University of Cluj-Napoca (UTCN), Faculty of Automation and Computer Science.
+
+```
+
+```
