@@ -28,6 +28,9 @@ This project was built as an advanced application to simulate high-frequency rac
 
 ## 📸 Screenshots
 
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a50d6c1f-c457-42b8-bd98-eebfee090e8d" />
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
