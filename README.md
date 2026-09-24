@@ -29,7 +29,11 @@ This project was built as an advanced application to simulate high-frequency rac
 ## 📸 Screenshots
 
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a50d6c1f-c457-42b8-bd98-eebfee090e8d" />
-
+<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/c3461a52-bd48-4682-898a-a70b9cbc9156" />
+<img width="1909" height="1075" alt="image" src="https://github.com/user-attachments/assets/f6fa0895-a9ec-47c7-b531-ee445e1669c8" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/c007e96f-9caf-43f1-91cf-6f62c45a3e0b" />
+<img width="1918" height="1072" alt="image" src="https://github.com/user-attachments/assets/4b1c05f1-cab1-467b-8dd9-50d1397d356b" />
+<img width="1914" height="1077" alt="image" src="https://github.com/user-attachments/assets/64d9d980-d3a5-43ae-a7e8-ea375a3fc42d" />
 
 ## 🚀 Getting Started
 
